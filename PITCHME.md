@@ -1,4 +1,5 @@
 @title[Title]
+
 ## Committing to Committing
 
 🤗🤗🤗🤗🤗🤗
@@ -78,6 +79,8 @@ So make it clear and easy to read.
 
 @title[Writing PRs 2]
 
+## Writing Pull Requests
+
 - Jira ticket link |
 - What & Why: Summary of what your work does |
 - How: More detailed explanation (optional) |
@@ -89,12 +92,13 @@ There may be a template on your project, if not you could use something like thi
 ---
 @title[Writing PRs 3]
 
-## Writing Pull Requests
+## Formatting Pull Requests
 
 - Everyone |
 - Loves |
 - Bullet |
 - Points |
+- Use headings, emphasis and line breaks
 - <span style="display: inline-block; padding: 30px">And whitespace</span> |
 
 Note:
@@ -105,9 +109,10 @@ Formatting is also important. Learn markdown
 
 ## Writing Pull Requests
 
-- Visual change? |
+Visual change?
+
 - Screenshot |
-- Recordit |
+- Screen capture [Recordit](http://recordit.co/) |
 
 Note:
 Screenshots are excellent documentation of how the site looked in case it breaks. Keep screen captures short and sweet.
@@ -116,10 +121,18 @@ Screenshots are excellent documentation of how the site looked in case it breaks
 
 @title[Wrapping Up]
 
-Look what other people are doing.
+Always keep learning.
 
-No one is perfect. Perfect your style.
+Be nosey and see what other developers do.
+
+Note:
+Look at PRs on repos or through the dashboard.
 
 ---
 
+@title[Be nice]
+
 # Be nice 🙂
+
+Note:
+Every line of code was written with good intentions by someone trying to do a good job.
