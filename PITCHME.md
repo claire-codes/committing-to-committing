@@ -52,7 +52,7 @@ Atomic commits
 
 - Single purpose commits: contain one task or fix |
 - Easy to debug and revert out |
-- Especially with `git bisect` |
+- Especially with git bisect |
 - Helps you work more methodically |
 
 Note:
@@ -130,11 +130,11 @@ There may be a template on your project, if not you could use something like thi
 - Loves |
 - Bullet |
 - Points |
-- Use headings, emphasis and line breaks
+- Use headings, emphasis and line breaks |
 - <span style="display: inline-block; padding: 30px">And whitespace</span> |
 
 Note:
-Formatting is also important. Learn markdown
+Formatting is also important. Learn markdown. Don't be too verbose like me
 
 ---
 @title[Writing PRs 4]
@@ -153,9 +153,11 @@ Screenshots are excellent documentation of how the site looked in case it breaks
 
 @title[Wrapping Up]
 
+## Wrapping Up
+
 Always keep learning and improving your style.
 
-Be nosey and see what other developers do.
+Be nosey and look what other developers do.
 
 Note:
 Look at PRs on repos or through the dashboard.
